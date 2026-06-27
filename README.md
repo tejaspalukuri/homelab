@@ -1,5 +1,5 @@
 # homelab
-Personal homelab to learn and expeirment with IT infrastructure
+Personal homelab to learn and experiment with IT infrastructure
 
 **Hardware:**
 1. Raspberry Pi 4 4GB
